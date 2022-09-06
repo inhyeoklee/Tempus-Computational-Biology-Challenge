@@ -1,7 +1,6 @@
 # Tempus Coding Challenge #1
 ##### Inhyeok (Daniel) Lee, UT Austin
 #
-#
     🔎 Investigating the UNIX/LINUX Files System
 #### Investigate the Unix/Linux files system.
 > Create files, directories, and nested directories and monitor the stat information. Also pay attention to the inode information. Can you explain how “Links” increments and decrements for directories and files? What command can you use to target a file via inode number? What are the Links in an empty directory? How do stat links relate to the ln function? While investigating this system, what were the most useful/informative commands? Document all your discoveries, experiments including commands and their results in a markdown document or text file and submit to a public github account. We are interested in how deeply you investigate, how organized and thorough your notes are. 
