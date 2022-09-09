@@ -4,12 +4,6 @@
 using Markdown
 using InteractiveUtils
 
-# ╔═╡ 4f77a148-ffdc-45d5-b835-3b39876b8a3d
-begin
-	using Markdown
-	using InteractiveUtils
-end
-
 # ╔═╡ 251dd2cf-fc8f-4dbb-a702-b36e39dd2b15
 function complement(strand)
 	strand = lowercase(strand)
@@ -62,7 +56,6 @@ uuid = "d6f4376e-aef5-505a-96c1-9c027394607a"
 """
 
 # ╔═╡ Cell order:
-# ╠═4f77a148-ffdc-45d5-b835-3b39876b8a3d
 # ╠═251dd2cf-fc8f-4dbb-a702-b36e39dd2b15
 # ╠═d2abe46a-fc87-4e8c-9c60-34c6a222052d
 # ╠═71b40459-9ebb-4a34-b9e0-f538237f31d2
