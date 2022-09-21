@@ -37,4 +37,4 @@ pytest test_logit.py -v
 ```
 
 ## Developer
-Inhyeok Lee
+Inhyeok (Daniel) Lee
